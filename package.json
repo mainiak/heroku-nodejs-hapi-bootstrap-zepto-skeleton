@@ -1,0 +1,19 @@
+{
+  "name": "story-teller",
+  "version": "0.1.0",
+  "description": "on-line editor for story writings",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:story-teller.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "hapi": "~1.12.0"
+  }
+}
